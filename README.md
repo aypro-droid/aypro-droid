@@ -16,7 +16,6 @@
 <b>Can work using other tools too</b>
 <h3 class="center">Stats 📊</h3>
 <a href="https://github.com/aypro-droid?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=aypro-droid&show_icons=true&count_private=false&theme=radical" class="center"></a>
-<br>
 <a href="https://github.com/aypro-droid?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aypro-droid&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
 <br>
