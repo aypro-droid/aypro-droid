@@ -20,10 +20,6 @@
 <a href="https://github.com/aypro-droid?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aypro-droid&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
 <br>
-<h3 class="center">Status 📄</h3>
-<a href="https://discord.com/users/644442300667396111"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/644442300667396111.png"></a>
-<br>
-<br>
 <table>
 <tr><th colspan="2"><b>Contact Me</b></th></tr>
 <tr><td><b>E-Mail</b></td><td><b><a href="mailto:ayprogaming1@gmail.com">aypro-droid420@gmail.com</a></b></td></tr>
