@@ -22,7 +22,7 @@
 <br>
 <table>
 <tr><th colspan="2"><b>Contact Me</b></th></tr>
-<tr><td><b>E-Mail</b></td><td><b><a href="mailto:ayprogaming1@gmail.com">aypro-droid420@gmail.com</a></b></td></tr>
+<tr><td><b>E-Mail</b></td><td><b><a href="mailto:ayprogaming1@gmail.com">ayprogaming1@gmail.com</a></b></td></tr>
 <tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/644442300667396111">aypro_</a></b></td></tr>
 </table>
 </div>
